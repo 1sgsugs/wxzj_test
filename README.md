@@ -6,8 +6,8 @@
 
 | 文件 | 说明 |
 |------|------|
-| [ceshi.zip](../../releases/latest/download/ceshi.zip) | 主程序，解压即用 |
-| [dataset-examples.zip](../../releases/latest/download/dataset-examples.zip) | 示例数据集（可选），包含学生作业样本 |
+| [ceshi.zip](https://github.com/1sgsugs/wxzj_test/releases/latest/download/ceshi.zip) | 主程序，解压即用 |
+| [dataset-examples.zip](https://github.com/1sgsugs/wxzj_test/releases/latest/download/dataset-examples.zip) | 示例数据集（可选），包含学生作业样本 |
 
 ## 使用步骤
 
